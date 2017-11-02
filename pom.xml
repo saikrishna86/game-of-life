@@ -495,12 +495,5 @@
             </reporting>
         </profile>
       </profiles>
-    <distributionManagememt>
-        <repository>
-            <id>releases</id>
-            <name>Realeases</name>
-            <url>http://192.168.42.128:8081/nexus/content/repositories/releases/</url>
-        </repository>
-        </distributionManagement>
     
 </project>
